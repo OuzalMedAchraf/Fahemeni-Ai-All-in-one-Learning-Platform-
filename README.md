@@ -1,4 +1,4 @@
-# 🎓 Fahemeni — فهمني
+#  Fahemeni — فاهمني
 
 > **AI-Powered All-in-One Arabic Learning Platform** — Built for Algerian students, designed to make learning click.
 
@@ -217,8 +217,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Ouzal Med Achraf** — Solo Founder & Builder
 
-[![GitHub](https://img.shields.io/badge/GitHub-@ouzali-181717?style=flat-square&logo=github)](https://github.com/ouzali30)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Achraf_Ouzali-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@OuzalMedAchraf-181717?style=flat-square&logo=github)](https://github.com/ouzali30)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OuzalMedAchraf-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-ouzala30@gmail.com-0d9488?style=flat-square&logo=gmail)](mailto:ouzala30@gmail.com)
 
 ---
